@@ -6,6 +6,11 @@ One thing I am almost sure you will have to do is set up IP routing and routing 
     ip route - prints the routing table for the host you are on
     ip route add ROUTETO via ROUTEFROM - add a route to a new network if on a switched network and you need to pivot
     
+    To use these commands, make sure to:
+- Replace ‘10.10.10.10’ with the relevant IP address
+- Replace ‘port’ with the relevant port number
+- Replace /path/to/x with the relevant path to the relevant file
+    
 
 ## Enumeration
 Anyone experienced in penetration testing will tell you that enumeration is 90% of the battle, and I don’t disagree. Although the eJPT doesn’t require a very in depth enumeration cycle, it does cover a broad number of techniques.
