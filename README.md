@@ -1,4 +1,4 @@
-# eJPT-walkthrough
+# eJPT-Walkthrough
 This is a high level overview of how to pass the ELearn Security Junior Penetration Tester Exams
 ## Routing/Pivoting
 One thing I am almost sure you will have to do is set up IP routing and routing tables. There are plenty of resources available online for this, but the course content itself seemed to be pretty lacking here.
