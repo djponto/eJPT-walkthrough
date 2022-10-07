@@ -1,4 +1,4 @@
-# eJPT-Walkthrough
+# ⚔  eJPT-Walkthrough
 This is a high level overview of how to pass the ELearn Security Junior Penetration Tester Exams
 
 ![eJPT Logo](/ejpt_logo.png)
